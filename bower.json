@@ -1,0 +1,23 @@
+{
+  "name": "learnJS",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Dmitriy Filenkov <35363162+Kreami@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.8.1",
+    "vide": "^0.5.1"
+  }
+}
